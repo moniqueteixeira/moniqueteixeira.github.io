@@ -5,6 +5,10 @@
     list-style: none;
     font-family: 'Roboto', sans-serif;
 }
+.head {
+    font-size: 25px;
+    color: #75f300;
+}
 
 .resume-contents {
     min-height: 100vh;
@@ -42,14 +46,14 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #ca1b1b;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
 
 .profession {
-    color: #eeeeee;
+    color: #104dc0;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -57,7 +61,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #104dc0;
     font-size: 20px;
 }
 
@@ -68,14 +72,14 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #3c9c23;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #eeeeee;
+    color: #3c9c23;
 }
 
 .skills ul {
@@ -83,7 +87,7 @@
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #3c9c23;
 }
 
 .right-section-contents {
@@ -91,7 +95,7 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #050505;
 }
 
 .gap {
